@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Baskervville SC', serif;
+    line-height: 1.6;
+    background-color: #d2c6bb; 
+    padding-top: 60px; 
+}
+
+header {
+    background-color: #3a3a3d; /* Cor de fundo do cabeçalho */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex: 1; /* Permite que a lista ocupe o máximo de espaço possível */
+    justify-content: center; /* Centraliza os itens na lista */
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-links li a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    position: absolute; /* Posiciona os ícones à direita */
+    right: 20px;
+}
+
+.social-icons li {
+    margin: 0 5px;
+}
+
+.social-icons img {
+    width: 20px;
+    height: 20px;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+section#books h1 {
+    text-align: center;
+    white-space: nowrap;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Baskervville SC', serif;
+    font-weight: bold;
+    margin-bottom: 5;
+}
+h2{
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Baskervville SC', serif;
+    font-weight: bold;
+    margin-bottom: 5;
+}
+
+.book {
+    display: flex;
+    margin-bottom: 60px;
+    align-items: flex-start;
+    font-family: 'Baskervville SC', serif;
+}
+
+.book-cover {
+    width: 250px; 
+    height: 350px; 
+    object-fit: cover;
+    margin-right: 40px;
+    margin-left: 40px; 
+  }
+  
+
+.book-info {
+    flex: 1;
+    font-family: 'Baskervville SC', serif;
+    
+}
+
+.book-info h2 {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .book-info h2::after {
+    content: none; 
+  }
+  
+
+.book-info h2:hover::after {
+    width: 10px;
+    height: 10px;
+    opacity: 1;
+}
+
+.book-info .synopsis {
+    font-size: 1,4rem;
+}
+
+footer {
+    background-color: #3a3a3d;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+footer ul li {
+    margin: 0 10px;
+}
+
+footer ul li a img {
+    width: 30px;
+    height: 30px;
+}
+
+footer p {
+    margin-top: 10px;
+}

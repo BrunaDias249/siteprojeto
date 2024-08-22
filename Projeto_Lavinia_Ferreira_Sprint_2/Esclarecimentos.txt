@@ -1,0 +1,17 @@
+Olá, aqui é o Wenry, intergante do Grupo de Desenvolvimento da cliente Flaviane Ferreira Fraga
+
+Decidi incluir esse arquivo .txt para poder dar alguns esclarecimentos referentes a algumas entregas dessa sprint do projeto.
+
+Primeiramente, gostaria de dizer que o intuito não é dar desculpas sobre o motivo de algumas entregas não terem sido realizadas mais sim, poder informar o porque.
+
+Enfim, tivemos um período muito tumultuado nas últimas semanas, e quando digo isso, me refiro a todos os integrantes do grupo incluindo a nossa cliente, os detalhes acredito que os tutores estejam cientes. Não conseguimos desenvolver tudo o que queríamos, entretanto, tivemos uma reunião bem produtiva com nossa cliente onde surgiram várias novas ideias, que pretendemos já aplicar, ou já estamos aplicando...
+
+Em relação ao alinhamento com a cliente, também tivemos o feedback dela em relação ao desenvolvimento do aplicativo mobile, onde a mesma nos informou que não é sua intenção ter um aplicativo, e que podemos voltar todo o nosso foco para o site mesmo. Como não fomos orientados a uma situação dessa, fica aqui o registro e o nosso aguardo sobre tal orientação.
+
+No mais, fica aqui o registro, que embora tenhamos os tumultos rotineiros, manifestamos a vontade que temos de finalizar esse projeto em conjunto com nossa cliente e que estamos todos animados, especialmente com o LaviVerso, que é nome que demos ao universo literário dela.
+
+Agradeço a compreensão, e peço que não entendam esse arquivo como sendo uma tentativa de "dar desculpas", mas somente um esclarecimento mais direto.
+
+Atenciosamente,
+
+Wenry e todo o grupo do Projeto.
